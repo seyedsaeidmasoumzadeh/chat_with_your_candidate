@@ -1,0 +1,21 @@
+version: '3.9'
+services: 
+  chat_with_your_candidate:
+    image: chat_with_your_candidate
+    shm_size: '10gb'
+    ports: 
+      - 0.0.0.0:7860:7860
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - dev.env
+    volumes:
+      - .:/home/code/
+      - ~/.cache:/cache
+  linter:
+    build:
+      context: .
+      dockerfile: Dockerfile.linter
+    volumes:
+      - .:/home/code 
