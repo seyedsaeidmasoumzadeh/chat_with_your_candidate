@@ -37,4 +37,6 @@ Upon uploading a Curriculum Vitae (CV), the system employs a sequence of langcha
 
 By following this comprehensive processing workflow, the system effectively leverages LLMs, text embeddings, and advanced language processing techniques to handle CVs and provide insightful responses to user queries.
 
+### Daigram
+![System Design](./image/diagram.jpg)
 
