@@ -1,6 +1,11 @@
 # Chat with your Candidate
 An interactive chatbot designed to engage with job candidates using their resumes, driven by the capabilities of Language Models (LLMs), Langchain integration, and Gradio interface.
 
+## Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBC4bH_6u4I?si=szvJ4IpU_eXh6W1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### Running APP
 ```command
 make build
