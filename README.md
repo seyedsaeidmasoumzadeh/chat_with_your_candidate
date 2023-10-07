@@ -2,9 +2,9 @@
 An interactive chatbot designed to engage with job candidates using their resumes, driven by the capabilities of Language Models (LLMs), Langchain integration, and Gradio interface.
 
 ## Demo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SBC4bH_6u4I?si=szvJ4IpU_eXh6W1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<a href="https://youtu.be/SBC4bH_6u4I" target="_blank">
+  <img src="https://img.youtube.com/vi/SBC4bH_6u4I/maxresdefault.jpg" alt="IMAGE ALT TEXT" width="560" height="315" border="10" />
+</a>
 
 ### Running APP
 ```command
